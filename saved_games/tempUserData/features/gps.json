@@ -1,0 +1,8 @@
+{
+    "name": "gps",
+    "displayName": "GPS",
+    "description": "It's a 17-inch 4K touchscreen where you enter in your desired destination.",
+    "usable": "true",
+    "explored": "false",
+    "secondaryMessage": "You reopen the gps, X, SpaceX or Home"
+}

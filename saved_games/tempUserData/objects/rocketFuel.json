@@ -1,0 +1,6 @@
+{
+    "name": "rocketFuel",
+    "displayName": "Rocket Fuel",
+    "description": "This makes rockets go places really fast.",
+    "callCommands": ["take", "use", "drop"]
+}

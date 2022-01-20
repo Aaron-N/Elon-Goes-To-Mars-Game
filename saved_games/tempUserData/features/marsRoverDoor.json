@@ -1,0 +1,9 @@
+{
+    "name": "marsRoverDoor",
+    "displayName": "Door to Enter the Rover",
+    "description": "A exit door which will lead to the Mars Rover",
+    "usable": "true",
+    "objects": [],
+    "explored": "false",
+    "secondaryMessage": ""
+}

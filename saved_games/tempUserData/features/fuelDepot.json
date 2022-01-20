@@ -1,0 +1,10 @@
+{
+    "name": "fuelDepot",
+    "displayName": "Fuel Depot",
+    "description": "It looks like a place where spaceships would get fuel from, based on the big tanks,\ntractors and landing pads.\nYou can somewhat make out what looks like crates on the landing pad closest to you.",
+    "usable": "true",
+    "open":"false",
+    "explored": "false",
+    "secondaryMessage": "You need more fuel?'"
+}
+

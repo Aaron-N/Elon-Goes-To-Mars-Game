@@ -1,0 +1,7 @@
+{
+  "name": "marsAirlock",
+  "displayName": "Mars Base Airlock",
+  "description": "This is the airlock of the Mars Base that gives you access to explore the martian surface.\nIt has the standard warning sign: 'VERIFY PROTECTIVE SUIT FUNCTIONALITY PRIOR TO EGRESS'",
+  "usable": "true",
+  "explored": "false"
+}

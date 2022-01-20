@@ -1,0 +1,6 @@
+{
+    "name": "mixTape",
+    "displayName": "Mixtape",
+    "description": "It's a curated mixtape of the greatest jams ever.",
+    "callCommands": ["take", "insert", "drop"]
+}

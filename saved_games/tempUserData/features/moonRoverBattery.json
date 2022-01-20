@@ -1,0 +1,8 @@
+{
+  "name": "moonRoverBattery",
+  "displayName": "Moon Rover Battery",
+  "description": "It's the battery for the Moon Rover. The indicator on it looks like it is still fully charged.",
+  "usable": "true",
+  "explored": "false",
+  "secondaryMessage": ""
+}

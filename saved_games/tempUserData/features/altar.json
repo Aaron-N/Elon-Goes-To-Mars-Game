@@ -1,0 +1,7 @@
+{
+  "name": "altar",
+  "displayName": "Pyramid Altar",
+  "description": "The altar appears to be made of gold. \nYou see more heirolglyphics, but this time they are recognizable,\nthey look the same as Egyptian ones you've seen in books.\nYou now clearly see that the floating blue object is a pill.",
+  "usable": "true",
+  "explored": "false"
+}

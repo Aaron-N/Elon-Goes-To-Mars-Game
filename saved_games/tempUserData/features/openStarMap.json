@@ -1,0 +1,9 @@
+{
+    "name": "openStarMap",
+    "displayName": "Map of the Stars",
+    "description": "A map of all the destinations that are reachable by your shuttle",
+    "usable": "true",
+    "objects": [],
+    "explored": "false",
+    "secondaryMessage": ""
+}

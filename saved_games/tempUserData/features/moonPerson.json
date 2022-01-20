@@ -1,0 +1,9 @@
+{
+    "name": "moonPerson",
+    "displayName": "Person On the Moon",
+    "description": "A locla person who resides on the moon",
+    "usable": "true",
+    "objects": [],
+    "explored": "false",
+    "secondaryMessage": ""
+}

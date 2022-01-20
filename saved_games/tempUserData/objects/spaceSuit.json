@@ -1,0 +1,6 @@
+{
+    "name": "spaceSuit",
+    "displayName": "Space Suit",
+    "description": "This helps you not be dead in space.",
+    "callCommands": ["take", "wear", "drop"]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "teslaKey",
+    "displayName": "Tesla Key",
+    "description": "It's a key to a Tesla Model S. It looks as pretentious as the car does.",
+    "callCommands": ["take", "use", "insert", "drop"]
+}

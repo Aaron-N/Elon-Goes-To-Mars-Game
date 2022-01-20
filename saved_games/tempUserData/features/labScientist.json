@@ -1,0 +1,8 @@
+{
+  "name": "labScientist",
+  "displayName": "Lead Scientist",
+  "description": "The Lead Scientist runs the SpaceX Research & Development Laboratories.\nShe developed spacesuits for NASA previously, her area of expertise.",
+  "usable": "true",
+  "explored": "false",
+  "secondaryMessage": "Back again? What do you need?"
+}

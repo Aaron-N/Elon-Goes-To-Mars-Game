@@ -1,0 +1,7 @@
+{
+  "name": "restrictedDoor",
+  "displayName": "Restricted Door",
+  "description": "It's a heavy steel door with reinforced hinges and a red and white sign on it that says\n'WARNING: RESTRICTED AREA - ID REQUIRED FOR ENTRY'\nIt looks like it could survive a nuclear attack, why the heck would it be in here?\nYou've never seen anyone either go into it or come out of it.\nThere is an ID scanner to the right of it.",
+  "usable": "true",
+  "explored": "false"
+}

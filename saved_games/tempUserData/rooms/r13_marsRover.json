@@ -1,0 +1,13 @@
+{
+    "name": "r13_marsRover",
+    "displayName": "a Tesla Mars Rover",
+    "explored": "false",
+    "open": "true",
+    "objects": [],
+    "droppedObjects": [],
+    "longMessage": "It made it here in one piece!\nIt's equipped with GPS and Ludicrous Mode just like a standard Tesla,\nit'll be street legal once the roads are built here.\nYou sit in the driver's seat, you just need to start it up and tell the GPS where to go.\nTo the north of you is Mars Base.\nTo the east, a Pyramid.\nTo your west is the Face of Mars.",
+    "shortMessage": "Man, this thing looks sweeeet in the red light. You can't wait to start it up again.\nTo the north of you is Mars Base.\nTo the east, a Pyramid.\nTo your west is the Face of Mars.",
+    "features": ["marsLudicris","marsGps"],
+    "linked": ["r12_marsBase","r14_marsFace","r15_marsPyramid"],
+    "directions": {"east":"r15_marsPyramid", "north":"r12_marsBase", "west":"r14_marsFace"}
+}

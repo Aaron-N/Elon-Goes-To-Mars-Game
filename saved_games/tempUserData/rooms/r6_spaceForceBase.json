@@ -1,0 +1,13 @@
+{
+    "name": "r6_spaceForceBase",
+    "displayName": "a remote Space Force Base",
+    "explored": "false",
+    "open": "true",
+    "objects": [ "dilithiumCrystals" ],
+    "droppedObjects": [],
+    "longMessage": "You walk a short distance and see a guard standing not far from you, but he doesn't see you yet.\nHe's guarding what looks to be a Fuel Depot.\nTo the east is the Transporter.",
+    "shortMessage": "The guard doesn't see you again. He's not too good at this. To the east is the Transporter.",
+    "features": ["spaceForceGuard","fuelDepot"],
+    "linked": ["r5_spaceXHQ"],
+    "directions": {"east": "r5_spaceXHQ"}
+}

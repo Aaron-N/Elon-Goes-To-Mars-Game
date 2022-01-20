@@ -1,0 +1,9 @@
+{
+    "name": "spaceForceGuard",
+    "displayName": "United States Space Force Guardian",
+    "description": "He's a member of the Space Force, probably only a Specialist, which is why he's stuck pulling guard duty.\nHe's by himself and looks pretty bored.",
+    "usable": "true",
+    "explored": "false",
+    "secondaryMessage": "Can I help you Elon?"
+}
+

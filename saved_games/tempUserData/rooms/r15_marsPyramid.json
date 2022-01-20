@@ -1,0 +1,14 @@
+
+{
+    "name": "r15_marsPyramid",
+    "displayName": "the Mars Pyramid",
+    "explored": "false",
+    "open": "true",
+    "objects": [ "bluePill" ],
+    "droppedObjects": [],
+    "longMessage": "Before you is a Pyramid made of shiny red stone with an eloborate entrance.\nIt looks just like the Great Pyramids in Egypt.\nMaybe that 'Ancient Aliens' episode you watched the other night was right after all?\nTo the west is the Mars Rover.",
+    "shortMessage": "You stop and admire the Pyramid once again. To the west is the Mars Rover.",
+    "features": ["pyramidTapePlayer","pyramidEntrance"],
+    "linked": ["r13_marsRover"],
+    "directions": {"west":"r13_marsRover"}
+}

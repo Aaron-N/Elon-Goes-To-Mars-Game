@@ -1,0 +1,9 @@
+{
+    "name": "missionControl",
+    "displayName": "Mission Control",
+    "description": "",
+    "usable": "true",
+    "objects": [],
+    "explored": "false",
+    "secondaryMessage": "How are you back? You just launched."
+}

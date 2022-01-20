@@ -1,0 +1,8 @@
+{
+    "name": "moonMap",
+    "displayName": "Moon Map",
+    "description": "It's a map that the Apollo 15 astronauts brought with them to navigate the lunar surface.\nWith it you can safely reach places around you.",
+    "usable": "true",
+    "explored": "false",
+    "secondaryMessage": ""
+}

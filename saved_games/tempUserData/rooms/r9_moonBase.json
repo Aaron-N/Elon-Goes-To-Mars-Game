@@ -1,0 +1,13 @@
+{
+  "name": "r9_moonBase",
+  "displayName": "a Moon Base at the landing site of the 1971 Apollo 15 mission",
+  "explored": "false",
+  "open": "true",
+  "objects": [],
+  "droppedObjects": [],
+  "longMessage": "Through the airlock window of this dormant Moon Base you see the Lunar Lander\nsurrounded by gear they left behind.\nIt's more desolate than anyone could imagine.\nYou should suit up, open the airlock and explore.\nTo the north is what looks like the moon rover they brought with them.\nTo the south is the Shuttle.",
+  "shortMessage": "Everything looks the same here. To the north is the Moon Rover.\nTo the south is the Shuttle.",
+  "features": [ "shuttleAirlock", "lunarLander" ],
+  "linked": [ "r10_moonRover", "r8_spaceShuttle" ],
+  "directions": {"north": "r10_moonRover", "south": "r8_spaceShuttle"}
+}

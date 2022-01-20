@@ -1,0 +1,7 @@
+{
+    "name": "launchcodes",
+    "displayName": "launchCodes",
+    "description": "They're a series of complex numbers that must be entered into Shuttle Main Computer to\ninitiate the Shuttle Launch Sequence.",
+    "callCommands": ["use", "insert", "drop"]
+}
+

@@ -1,0 +1,7 @@
+{
+  "name": "marsBaseHeadquarters",
+  "displayName": "Mars Base Headquarters",
+  "description": "This building is still under construction and isn't operational yet.\nThe front entrance is complete so you can enter it if you want, though.",
+  "usable": "true",
+  "explored": "false"
+}

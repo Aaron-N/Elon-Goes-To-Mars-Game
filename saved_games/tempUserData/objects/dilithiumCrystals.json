@@ -1,0 +1,6 @@
+{
+  "name": "dilithiumCrystals",
+  "displayName": "Dilithium Crystals",
+  "description": "These are pink dilithium crystals.\nThey are fuel for spacecraft warp drives and makes them go really, really fast.",
+  "callCommands": [ "take", "use", "drop" ]
+}

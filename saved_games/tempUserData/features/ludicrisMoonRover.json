@@ -1,0 +1,10 @@
+{
+    "name": "ludicrisMoonRover",
+    "displayName": "Ludicris Mode on the Moon",
+    "description": "Entering Ludicris Mode will enable traveling at a ludricris speed",
+    "usable": "true",
+    "objects": [],
+    "explored": "false",
+    "secondaryMessage": "Enable this again? You remember what happened last time..."
+}
+

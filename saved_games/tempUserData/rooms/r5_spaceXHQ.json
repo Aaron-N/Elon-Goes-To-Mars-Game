@@ -1,0 +1,13 @@
+{
+    "name": "r5_spaceXHQ",
+    "displayName": "SpaceX Headquarters",
+    "explored": "false",
+    "open": "false",
+    "objects": [ "solarSystemNavMap" ],
+    "droppedObjects": [],
+    "longMessage": "It's noisy in here as the Launch Control Team prepares for the upcoming launch.\nThe Mission Control Navigation Terminal is in the front of the room in front of a huge wall of screens.\nAt the very back of the room is a door boldly marked 'RESTRICTED ACCESS'.\nIt was here when NASA gave SpaceX the building, but they never told anyone what's behind it.\nTo the east is the Launch Pad.\nTo the south is the R & D Lab.\nYour Tesla is parked outside to the north.",
+    "shortMessage": "The Launch Control Team is still preparing for the upcoming launch.\nTo the east is the Launch Pad.\nTo the south is the R & D Lab.\nYour Tesla is parked outside to the north.",
+    "features": ["navigationTerminal","restrictedDoor", "transporter"],
+    "linked": [ "r2_teslaRide", "r4_rdLab", "r6_spaceForceBase", "r7_launchPad" ],
+    "directions": {"north":"r2_teslaRide","south":"r4_rdLab", "east":"r7_launchPad", "west":"r6_spaceForceBase"}
+}

@@ -1,0 +1,8 @@
+{
+    "name": "shuttleDoor",
+    "displayName": "Space Shuttle Door",
+    "description": "This round door is the entry point to board the Shuttle.\nThere is an ID scanner temporarily attached to it while on the ground to grant\naccess to authorized personnel.",
+    "usable": "true",
+    "explored": "false"
+}
+

@@ -1,0 +1,8 @@
+{
+    "name": "moonBaseAirlock",
+    "displayName": "Moon Base Airlock",
+    "description": "This is the airlock of the Moon Base that gives you access to explore the lunar surface.\nA bright neon orange sign above the controls states\n'VERIFY PROTECTIVE SUIT FUNCTIONALITY PRIOR TO EGRESS'",
+    "usable": "true",
+    "explored": "false",
+    "secondaryMessage": ""
+}

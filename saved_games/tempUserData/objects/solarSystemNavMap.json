@@ -1,0 +1,6 @@
+{
+    "name": "solarSystemNavMap",
+    "displayName": "Solar System Navigation Map",
+    "description": "This helps you navigate through the Milky Way Galaxy.",
+    "callCommands": ["take", "insert", "use", "drop"]
+}
