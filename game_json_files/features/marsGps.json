@@ -1,0 +1,7 @@
+{
+  "name": "marsGps",
+  "displayName": " Mars GPS",
+  "description": "It's a 17-inch 4K touchscreen where you enter in your desired Martian destination,\njust built Tesla Tough for this big red sandbox. Please don't sue us, Tonka.",
+  "usable": "true",
+  "explored": "false"
+}

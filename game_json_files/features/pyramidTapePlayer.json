@@ -1,0 +1,8 @@
+{
+    "name": "pyramidTapePlayer",
+    "displayName": "Tape Player in the Pyramid",
+    "description": "",
+    "usable": "true",
+    "explored": "false",
+    "secondaryMessage": ""
+}

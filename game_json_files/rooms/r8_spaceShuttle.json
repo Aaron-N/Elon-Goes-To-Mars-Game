@@ -1,0 +1,17 @@
+{
+  "name": "r8_spaceShuttle",
+  "displayName": "the Shuttle",
+  "explored": "false",
+  "open": "true",
+  "objects": [],
+  "droppedObjects": [],
+  "longMessage": "You haven't met your copilot Barf in real life yet, but he seems to have a good\nsense of humor with how he always had that funny dog filter turned on during your Zoom calls.\nThe Shuttle Main Computer is identical to the one you used in flight training.\nOnce you lift off, you believe the Moon will be to galactic north, Mars to galactic south,\nand Earth to galactic west.",
+  "shortMessage": "You and Barf prepare the Shuttle for liftoff.\nTo galactic north is the Moon, galactic south, Mars, and galactic west, Earth.",
+  "features": [ "talktoBarf", "openStarMap" ],
+  "linked": [ "r7_launchPad", "r9_moonBase", "r12_marsBase" ],
+  "directions": {
+    "north": "r9_moonBase",
+    "south": "r12_marsBase",
+    "west": "r7_launchPad"
+  }
+}

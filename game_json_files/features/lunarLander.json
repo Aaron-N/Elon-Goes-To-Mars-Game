@@ -1,0 +1,8 @@
+{
+  "name": "lunarLander",
+  "displayName": "Apollo Lunar Lander",
+  "description": "This is the lunar lander left behind by Apollo 15.\nThe name 'Falcon' is stenciled on the side.\nDammit, someone already used the name 'Falcon'?!",
+  "usable": "true",
+  "explored": "false",
+  "secondaryMessage": ""
+}

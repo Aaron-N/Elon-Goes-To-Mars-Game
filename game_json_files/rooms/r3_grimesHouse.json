@@ -1,0 +1,13 @@
+{
+    "name": "r3_grimesHouse",
+    "displayName": "Grimes's House",
+    "explored": "false",
+    "open": "false",
+    "objects": [ "mixtape", "dogeHat", "ID" ],
+    "droppedObjects": [],
+    "longMessage": "You guys broke up recently, but you're still friends.\nYou thought you'd come get some things back before you left for Mars.\nShe's sitting reading The Communist Manifesto again.\nShe took the painting of you down that was covering a wall safe.\nThe Tesla is parked outside in her driveway to the south.",
+    "shortMessage": "She's still reading.\nThe Tesla is parked outside in her driveway to the south.",
+    "features": ["grimes","safe"],
+    "linked": ["r2_teslaRide"],
+    "directions": {"south":"r2_teslaRide"}
+}

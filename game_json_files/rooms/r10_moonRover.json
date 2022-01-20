@@ -1,0 +1,13 @@
+{
+    "name": "r10_moonRover",
+    "displayName": "the Moon Rover",
+    "explored": "false",
+    "open": "true",
+    "objects": [],
+    "droppedObjects": [],
+    "longMessage": "Before you is the Moon Rover left behind by the Apollo 15 mission, according to the emblem on it.\nIt's in pristine condition. You see the battery is here but disconnected.\nYou also see a Moon map sitting in the driver's seat even.\nTo the east you see a mysterious object you can't quite make out.\nTo the south is the Moon Base.",
+    "shortMessage": "The Moon Rover is still functional. You unhooked the battery just to be safe.\nTo the east is the object, to the west is the Moon Base.",
+    "features": ["moonRoverBattery","moonMap"],
+    "linked": ["r11_moonPeople", "r9_moonBase"],
+    "directions": {"east":"r11_moonPeople", "south":"r9_moonBase"}
+}

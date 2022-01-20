@@ -1,0 +1,10 @@
+{
+    "name": "safe",
+    "displayName": "Safe",
+    "description": "It's a safe with a small screen that is opened using biometrics.",
+    "shortDescription": "This room seems familiar. Have I been here before?",
+    "usable": "true",
+    "open": "true",
+    "explored": "false",
+    "secondaryMessage": "Secondary Message for Safe.json"
+}

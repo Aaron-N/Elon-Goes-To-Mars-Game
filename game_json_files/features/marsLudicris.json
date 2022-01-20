@@ -1,0 +1,9 @@
+{
+    "name": "marsLudicris",
+    "displayName": "Ludicrous Mode on Mars",
+    "description": "The standard Tesla Ludicrous Mode install, now with a lot more red dust.\nUsing it would be another Mars first for mankind.",
+    "usable": "true",
+    "explored": "false",
+    "secondaryMessage": "Enable this again? You remember what happened last time..."
+}
+

@@ -1,0 +1,9 @@
+{
+    "name": "oompa",
+    "displayName": "Oompa Loompa",
+    "description": "It's a short, stocky orange man with green hair wearing a brown shirt\nand white pants with crossed suspenders.",
+    "shortDescription": "What do you want this time?",
+    "usable": "true",
+    "explored": "false",
+    "secondaryMessage": "The Oompa Loompa has nothing left to give you."
+}

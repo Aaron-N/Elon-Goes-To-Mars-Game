@@ -1,0 +1,13 @@
+{
+    "name": "r11_moonPeople",
+    "displayName": "the mysterious object",
+    "explored": "false",
+    "open": "true",
+    "objects": [],
+    "droppedObjects": [],
+    "longMessage": "You stand before a statue of the Doge, which you do not understand one bit.\nWhy?! How did this get here?! To the west is the Moon Rover.",
+    "shortMessage": "The Doge is still here. To the west is the Moon Rover.",
+    "features": ["dogeStatue","moonPerson"],
+    "linked": ["r10_moonRover"],
+    "directions": {"west":"r10_moonRover"}
+}

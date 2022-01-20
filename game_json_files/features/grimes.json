@@ -1,0 +1,8 @@
+{
+    "name": "grimes",
+    "displayName": "Claire Elise Boucher aka Grimes",
+    "description": "It's Claire Elise Boucher, otherwise known as Grimes.\nShe's your former girlfriend and the mother of your child X AE A-12.\nYou still don't know how to say that.",
+    "usable": "true",
+    "explored": "false",
+    "secondaryMessage": "Claire greets you, 'Back so soon?'"
+}

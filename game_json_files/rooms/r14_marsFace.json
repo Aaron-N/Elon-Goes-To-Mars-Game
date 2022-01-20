@@ -1,0 +1,13 @@
+{
+    "name": "r14_marsFace",
+    "displayName": "The Face of Mars",
+    "explored": "false",
+    "open": "false",
+    "objects": [ "redPill" ],
+    "droppedObjects": [],
+    "longMessage": "The giant Face of Mars was believed to be a myth, until\nViking 1 sent back those grainy pictures when you were a kid.\nIt looks like there is an entrance on one side.\nTo the east is the rover, where you left it.",
+    "shortMessage": "You weren't dreaming, the Face is still here.\nTo the east is the rover, where you left it.",
+    "features": ["faceEntrance","martian"],
+    "linked": ["r13_marsRover"],
+    "directions": {"east":"r13_marsRover"}
+}

@@ -1,0 +1,6 @@
+{
+    "name": "dogeCoin",
+    "displayName": "Dogecoin",
+    "description": "A coin of potentially infinite value, and maybe a key to things.",
+    "callCommands": ["take", "use", "give", "insert", "drop"]
+}

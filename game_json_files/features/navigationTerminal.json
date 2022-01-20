@@ -1,0 +1,7 @@
+{
+    "name": "navigationTerminal",
+    "displayName": "Mission Control Navigation Terminal",
+    "description": "It's the Mission Control Navigation Terminal.\nThis machine stores galactic and interstellar navigation data and is the source\nof up-to-date navigation maps for all SpaceX missions.",
+    "usable": "true",
+    "explored": "false"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "dogeHat",
+  "displayName": "Dogedog hat",
+  "description": "It's a Dogedog trucker hat with a Dogedog wearing sunglasses on it. It's awesome.",
+  "callCommands": [ "take", "use", "give", "insert", "drop" ]
+}

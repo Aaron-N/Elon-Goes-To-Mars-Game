@@ -1,0 +1,13 @@
+{
+    "name": "r4_rdLabs",
+    "displayName": "the SpaceX Research & Development Laboratories",
+    "explored": "false",
+    "open": "false",
+    "objects": [ "spaceSuit", "launchCodes" ],
+    "droppedObjects": [],
+    "longMessage": "The scene here is chaotic as Engineers, Scientists and Technicians work preparing\nfor your upcoming launch.\nYou see the Lead Scientist in front of a rack of spacesuits along the wall.\nThe Chief Engineer is looking at paperwork at his desk.\nTo the north of here is SpaceX Headquarters.",
+    "shortMessage": "Everyone is still busily working. To the north of here is SpaceX Headquarters.",
+    "features": ["labEngineer","labScientist", "suitRack"],
+    "linked": ["r5_spaceXHQ"],
+    "directions": {"north":"r5_spaceXHQ"}
+}

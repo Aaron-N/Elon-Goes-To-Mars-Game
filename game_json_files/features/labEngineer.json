@@ -1,0 +1,8 @@
+{
+    "name": "labEngineer",
+    "displayName": "Chief Engineer",
+    "description": "The Chief Engineer runs the SpaceX Engineering Group.\nHe is also part of the Launch Team, where he is the safekeeper of launch codes.",
+    "usable": "true",
+    "explored": "false",
+    "secondaryMessage": "Back again? What do you need?"
+}

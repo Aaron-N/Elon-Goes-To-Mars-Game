@@ -1,0 +1,7 @@
+{
+  "name": "shuttleMainComputer",
+  "displayName": "Shuttle Main Computer",
+  "description": "This is the Main Computer that controls all Shuttle operations.\nIt's where you enter launch codes for liftoff, and load any maps that you have.",
+  "usable": "true",
+  "explored": "false"
+}

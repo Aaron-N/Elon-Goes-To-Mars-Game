@@ -1,0 +1,10 @@
+{
+    "name": "keyholder",
+    "displayName": "Key Holder",
+    "description": "It's a series of hooks on the wall where a few different keys are hanging, including the Tesla key.",
+    "shortDescription": "This Key Holder looks oddly familiar.",
+    "usable": "true",
+    "explored": "false",
+    "secondaryMessage": "You already took one key, the rest are off limits."
+}
+

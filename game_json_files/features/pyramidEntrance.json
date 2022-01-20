@@ -1,0 +1,7 @@
+{
+  "name": "pyramidEntrance",
+  "displayName": "Entrance to the Pyramid",
+  "description": "The entrance is an intricately carved heavy red stone door with symbols you don't recognize all over it.\nYou see a slot coincidentally about the size of a cassette tape next to it.\nThat has be the way to open it, you don't see any other way.",
+  "usable": "true",
+  "explored": "false"
+}

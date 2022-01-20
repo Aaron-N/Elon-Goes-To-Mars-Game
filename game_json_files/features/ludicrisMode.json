@@ -1,0 +1,8 @@
+{
+    "name": "ludicrisMode",
+    "displayName": "Ludicris Mode",
+    "description": "This button activates Ludicrous Mode, which will enable traveling at a Ludicrous Speed!",
+    "usable": "true",
+    "explored": "false",
+    "secondaryMessage": "Enable this again? You remember what happened last time..."
+}

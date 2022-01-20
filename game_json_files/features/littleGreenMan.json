@@ -1,0 +1,8 @@
+{
+  "name": "littleGreenMan",
+  "displayName": "Little Green Man",
+  "description": "It's a little green 3-eyed man with a single antennae and Spock-like ears.\nHe's wearing a blue spacesuit with a logo of Saturn on it.'",
+  "usable": "true",
+  "explored": "false",
+  "secondaryMessage": ""
+}

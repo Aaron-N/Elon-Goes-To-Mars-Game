@@ -1,0 +1,8 @@
+{
+    "name": "talktoBarf",
+    "displayName": "Talk to Barf",
+    "description": "To your surpise, Barf was not at all using a filter in those calls!\nHe's a Mawg, half-man half-dog, and a well-respected co-pilot.\nHe also kinda sorta looks like that guy from 'Planes, Trains and Automobiles' too.",
+    "usable": "true",
+    "explored": "false",
+    "secondaryMessage": ""
+}

@@ -1,0 +1,14 @@
+{
+  "name": "r7_launchPad",
+  "displayName": "Space Shuttle Launch Pad",
+  "explored": "false",
+  "open": "false",
+  "objects": [],
+  "droppedObjects": [],
+  "longMessage": "The Launch Pad is where your mission begins, and hopefully ends.\nLighting towers surround it, and a flame trench and deflector run underneath it.\nYour shuttle has been modified to be able to land vertically like other SpaceX vehicles,\nbecause it can now land here, you built a skatepark where the runway formerly was.\nTo the west is SpaceX Headquarters. At the east end of the Launch Pad is the Shuttle.\nThe Access Gantry is connected to the Shuttle door, so you could open it now.\nYou can reach and open the Shuttle Fuel Tank from here on the ground.",
+  "shortMessage": "Launch Pad Sweet Launch Pad.\nTo the west is SpaceX Headquarters. At the east end of the Launch Pad is the Shuttle.",
+  "features": [ "shuttleDoor", "fuelTank" ],
+  "linked": [ "r5_spaceXHQ", "r8_spaceShuttle" ],
+  "directions": { "east": "r8_spaceShuttle", "west": "r5_spaceXHQ"
+  }
+}

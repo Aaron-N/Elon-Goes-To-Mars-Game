@@ -1,0 +1,6 @@
+{
+  "name": "bluepill",
+  "displayName": "bluePill",
+  "description": "It's a shiny blue gel pill that looks exactly like the blue pill from the Matrix.",
+  "callCommands": [ "take", "eat", "drop" ]
+}

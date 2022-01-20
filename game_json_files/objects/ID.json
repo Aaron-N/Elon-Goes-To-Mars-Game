@@ -1,0 +1,6 @@
+{
+    "name": "ID",
+    "displayName": "Identification Card",
+    "description": "It's an identification card that gives you access to places astronauts can be.",
+    "callCommands": ["take", "use", "drop"]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "fuelTank",
+    "displayName": "Fuel Tank",
+    "description": "A red circular access hatch covers the Shuttle Fuel Tank.\nThis is where all Shuttle fuels are added.",
+    "usable": "true",
+    "explored": "false"
+}
+

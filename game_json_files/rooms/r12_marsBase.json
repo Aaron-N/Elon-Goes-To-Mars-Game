@@ -1,0 +1,13 @@
+{
+  "name": "r12_marsBase",
+  "displayName": "Mars Base",
+  "explored": "false",
+  "open": "true",
+  "objects": [],
+  "droppedObjects": [],
+  "longMessage": "Through the airlock window you see the Red Planet. Mars Base Headquarters is right outside.\nIt looks just like Total Recall out there.\nTo the north is the Shuttle. To the south is the Mars Rover.",
+  "shortMessage": "Everything here looks the same. To the north is the Shuttle. To the south is the Mars Rover.",
+  "features": [ "marsBaseHeadquarters", "marsAirlock" ],
+  "linked": [ "r13_marsRover", "r8_spaceShuttle" ],
+  "directions": { "north": "r8_spaceShuttle", "south": "r13_marsRover" }
+}

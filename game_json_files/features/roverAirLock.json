@@ -1,0 +1,8 @@
+{
+    "name": "roverAirLock",
+    "displayName": "Rover AirLock",
+    "description": "An Air lock to will lead to the Rover",
+    "usable": "true",
+    "explored": "false",
+    "secondaryMessage": ""
+}
